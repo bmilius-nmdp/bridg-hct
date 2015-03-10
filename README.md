@@ -7,10 +7,10 @@ From the [BRIDG 3.2 release notes](http://bridgmodel.nci.nih.gov/news-folder/bri
 Files | Description
 ----- | -----------
 README.md |  this file
-BRIDG HCT 1.0.rtf | Sybase PowerDesigner Physical Data Model Report; contains description of all tables
-HCT_1_0_Abbreviations_AllObjects.csv |  Abbreviations used and definitions
-BRIDG_HCT1_0 Activity Timepoint v1.pdf | BRIDG HCT 1.0 Forms timepoints corrsponding to HCT Activities
-BRIDG HCT 1_0 Design Decisions v1.pdf | BRIDG HCT 1.0 design decisions
- BRIDG_HCT_1_0_DDL_v1.sql | code to create database tables; will be added once licensing questions are addressed
+BRIDG_HCT_1.0.rft | Sybase PowerDesigner Physical Data Model Report; contains description of all tables
+BRIDG_HCT_1.0_Abbreviations_AllObjects.csv |  Abbreviations used and definitions
+BRIDG_HCT_1.0_Activity_Timepoint_v1.pdf | BRIDG HCT 1.0 Forms timepoints corrsponding to HCT Activities
+BRIDG_HCT_1.0_Design_Decisions_v1.pdf | BRIDG HCT 1.0 design decisions
+<i>BRIDG_HCT_1_0_DDL_v1.sql</i> | code to create database tables; will be added once licensing questions are addressed
 
 
